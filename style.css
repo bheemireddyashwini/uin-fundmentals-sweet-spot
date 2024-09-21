@@ -1,0 +1,63 @@
+#h1tag {
+    background-color: lightpink;
+    color: white;
+    
+
+}
+.h2tag {
+    background-color: rgb(219, 214, 214);
+    color: rgb(236, 63, 236);
+    font-style: normal;
+    
+
+}
+.h3tag {
+    background-color: yellow;
+    color: black;
+    
+    
+}
+#second-paragraph {
+    background-color: rgb(214, 76, 161);
+}
+#links {
+    background-color: rgb(0, 238, 255);
+    color: rgb(5, 68, 102);
+    padding-inline-start: 3%;
+    font-size: 20px;
+}
+.contact{
+    color: rgb(0, 238, 255);
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+.mainpage {
+    color:rgb(243, 31, 208);
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.info{
+    
+    background-color: aqua;
+    text-align: left;
+    list-style-type: circle;
+    
+}
+.h3tag:hover{
+    color: blue;
+}
+#links:active{
+    color: red;
+}
+
+.candy:active{
+    color: red;
+}
+.candy:visited{
+    color: white;
+}
+.candy:hover{
+    color: red;
+}
